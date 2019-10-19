@@ -1,10 +1,10 @@
 String s1 = "";
-byte LED = 2;
+byte LED = 2; //2 wemos d1 mini, 6 mkr1000
  
 void setup() 
 {
     pinMode(LED, OUTPUT);
-    Serial.begin(115200);
+    Serial.begin(9600);
     Serial.println("START");
 }
  
