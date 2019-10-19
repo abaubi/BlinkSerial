@@ -1,5 +1,5 @@
 String s1 = "";
-byte LED = 2; //2 wemos d1 mini, 6 mkr1000
+byte LED = 6; //2 wemos d1 mini, 6 mkr1000
  
 void setup() 
 {
