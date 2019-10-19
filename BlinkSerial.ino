@@ -1,10 +1,10 @@
 String s1 = "";
-byte LED = 6;
+byte LED = 2;
  
 void setup() 
 {
     pinMode(LED, OUTPUT);
-    Serial.begin(9600);
+    Serial.begin(115200);
     Serial.println("START");
 }
  
