@@ -1,6 +1,6 @@
 {
     "sketch": "BlinkSerial.ino",
     "board": "arduino:samd:mkr1000",
-    "port": "COM6",
-    "output": "./build"
+    "port": "COM8",
+    "output": "../build"
 }
