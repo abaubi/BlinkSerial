@@ -1,10 +1,5 @@
 {
     "board": "arduino:samd:mkr1000",
-<<<<<<< HEAD
     "port": "COM1",
     "sketch": "BlinkSerial.ino"
-=======
-    "port": "COM8",
-    "output": "../build"
->>>>>>> 8dc9efb1e31e7000c122a952ae46546c40ecfb85
 }
